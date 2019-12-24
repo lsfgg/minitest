@@ -23,8 +23,6 @@ public class MiNiTestDemo {
         String[] arr8 = {"W", "X", "Y", "Z"};
         ArrayList list = new ArrayList();
         Map<Integer, String[]> map = new HashMap<Integer, String[]>();
-        Map<Integer, String[]> map1 = new HashMap<Integer, String[]>();
-        //Map<Integer,String> map1=new HashMap<Integer, String>();
         map.put(2, arr1);
         map.put(3, arr2);
         map.put(4, arr3);
